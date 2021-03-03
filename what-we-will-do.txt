@@ -1,0 +1,16 @@
+Objective and Requirement : 
+
+Goal : Create your own calculator 
+
+Dev Tools : HTML, CSS, Javascript 
+
+Required : Text Editor  and Web Browser 
+
+
+COVER IN THIS TOPIC
+
+1) Introduction to APP
+2) Creating Project Directory
+3) Creating app structure -HTML
+4) Creating app styling- CSS
+5) Creating app functionality using JavaScript
